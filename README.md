@@ -13,7 +13,7 @@ Performance Op utilizes opensource tools such WebPageTest and Lighthouse to chec
 
 To run this or any other Op, install the [Ops Platform](https://cto.ai/platform).
 
-Find information about how to run and build Ops via the [Ops Platform Documentation](https://cto.ai/docs/overview)
+Find information about how to run and build Ops via the [Ops Platform Documentation](https://cto.ai/docs/overview).
 
 This Op also requires API Key for WebPageTest.
 
@@ -61,7 +61,7 @@ Run `npm test`
 
 ## Contributing
 
-See the [contributing docs](CONTRIBUTING.md) for more information
+See the [contributing docs](CONTRIBUTING.md) for more information.
 
 ## Contributors
 
