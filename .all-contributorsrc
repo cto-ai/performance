@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "minsohng",
+      "name": "Min Sohng",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19717602?v=4",
+      "profile": "https://github.com/minsohng",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "performance",
+  "projectOwner": "cto-ai",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
