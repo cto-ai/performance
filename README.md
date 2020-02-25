@@ -63,22 +63,14 @@ Run `npm test`
 
 See the [contributing docs](CONTRIBUTING.md) for more information
 
-## Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+## Contributors
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/minsohng"><img src="https://avatars3.githubusercontent.com/u/19717602?v=4" width="100px;" alt=""/><br /><sub><b>Min Sohng</b></sub></a><br/></td>
+    <td align="center"><a href="https://github.com/CalHoll"><img src="https://avatars3.githubusercontent.com/u/21090765?s=400&v=4" width="100px;" alt=""/><br /><sub><b>Calvin Holloway</b></sub></a><br/></td>
   </tr>
 </table>
-
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Contributions of any kind are welcome!
 
 ## LICENSE
 
