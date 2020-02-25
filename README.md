@@ -58,3 +58,28 @@ Running the Op gives you variety of locations/browsers/connection to select to t
 ## Testing
 
 Run `npm test`
+
+## Contributing
+
+See the [contributing docs](CONTRIBUTING.md) for more information
+
+## Contributors ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Contributions of any kind are welcome!
+
+## LICENSE
+
+[MIT](LICENSE.txt)
