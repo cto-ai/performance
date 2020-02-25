@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/cto-ai/aws/master/assets/banner.png)
 
-# Measure - Website Performance
+# Performance - Website Performance
 
-Measure Op utilizes opensource tools such WebPageTest and Lighthouse to check your website's performance.
+Performance Op utilizes opensource tools such WebPageTest and Lighthouse to check your website's performance.
 
 > **WebPageTest** is an open source performance testing tool, maintained primarily by Google. It consists of one or multiple servers that act as web browsing robots, visiting websites and automatically collecting data about the experience in the form of a detailed performance report.
 
@@ -26,13 +26,13 @@ This Op also requires API Key for WebPageTest.
 In CLI:
 
 ```sh
-ops run measure
+ops run performance
 ```
 
 In Slack:
 
 ```sh
-/ops run measure
+/ops run performance
 ```
 
 Running the Op gives you variety of locations/browsers/connection to select to test your website's performance.
@@ -58,4 +58,3 @@ Running the Op gives you variety of locations/browsers/connection to select to t
 ## Testing
 
 Run `npm test`
-
