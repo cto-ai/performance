@@ -1,11 +1,11 @@
 # for more info visit https://cto.ai/docs/ops-reference
 version: "1"
 commands:
-  - name: measure:0.2.4
-    description: Measure analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+  - name: performance:0.2.5
+    description: Performance analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
     remote: true
     public: true
-    sourceCodeURL: ""
+    sourceCodeURL: "https://github.com/cto-ai/performance"
     run: npx ts-node ./src/index.ts
     sdk: "2"
     mountCwd: false
@@ -13,4 +13,4 @@ commands:
     port:
       - 3000:3000
     help:
-      usage: "ops run measure"
+      usage: "ops run performance"

@@ -1,7 +1,7 @@
 {
-  "name": "measure",
+  "name": "performance",
   "version": "1.0.0",
-  "description": "Measure Op",
+  "description": "Performance Op",
   "main": "./src/index.ts",
   "scripts": {
     "test": "mocha -r ts-node/register -u tdd test/**/*.test.ts"
