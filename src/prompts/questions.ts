@@ -8,9 +8,8 @@ export const getGithubAccessToken: Questions<{
   message: 'Please enter your Github access token',
 }
 
-//FIXME: fix type to input once slack url bug is fixed
 export const getWebsite: Questions<{ websiteURL: string }> = {
-  type: 'secret',
+  type: 'input',
   name: 'websiteURL',
   message: 'Please enter your website url',
 }
