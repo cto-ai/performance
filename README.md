@@ -26,13 +26,13 @@ This Op also requires API Key for WebPageTest.
 In CLI:
 
 ```sh
-ops run performance
+ops run cto.ai/performance
 ```
 
 In Slack:
 
 ```sh
-/ops run performance
+/ops run cto.ai/performance
 ```
 
 Running the Op gives you variety of locations/browsers/connection to select to test your website's performance.
